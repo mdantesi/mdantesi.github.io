@@ -1,0 +1,20 @@
+.center {
+    text-align: center;
+    border: 3px solid plum;
+    width: 500px;
+}
+body {
+    background-image: url(https://preview.redd.it/0zmb3cdygur51.png?auto=webp&s=9065deb0ea24cc95ea20fa1d7808563c613d0d50);
+    background-position-x: center;
+    background-position-y: -100px;
+    background-repeat: no-repeat;
+    color: whitesmoke;
+}
+h1 {
+    color: peachpuff;
+}
+.p1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    color: lightgoldenrodyellow;
+}
